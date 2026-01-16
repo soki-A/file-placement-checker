@@ -8,6 +8,8 @@
 Python（Tkinter）を用いて、**非エンジニアでも利用できる操作性**と、
 **人が作成・更新するExcelを前提とした堅牢なチェック処理**を意識して設計しました。
 
+<img width="1492" height="476" alt="スクリーンショット 2026-01-16 095610" src="https://github.com/user-attachments/assets/a76cf08b-2f7b-40e6-8397-60f3ccfed548" />
+
 ---
 
 ## 開発背景・課題
